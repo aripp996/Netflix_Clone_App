@@ -14,7 +14,7 @@ class DummyData {
   static const movieListPath = [
     "agak_laen.jpg",
     "ancika.jpg",
-    "bandarawuhi.jpg",
+    "badarawuhi.jpg",
     "exhuma.jpg",
     "gara_gara_warisan.jpg",
     "grandma.jpg",
